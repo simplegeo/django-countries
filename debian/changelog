@@ -1,3 +1,9 @@
+python-django-countries (1.0.5-0sg2) lucid; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 08 Feb 2011 20:49:21 +0000
+
 python-django-countries (1.0.5-0sg0) unstable; urgency=low
 
   * Debianized.
