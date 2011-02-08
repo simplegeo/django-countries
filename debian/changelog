@@ -1,0 +1,5 @@
+python-django-compressor (1.0.5-0sg0) unstable; urgency=low
+
+  * Debianized.
+
+ -- Casey Crites <casey@simplegeo.com>  Tue, 08 Feb 2011 13:44:21 -0700

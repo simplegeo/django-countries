@@ -1,0 +1,14 @@
+Source: python-django-countries
+Section: python
+Priority: optional
+Maintainer: SimpleGeo Nerds <nerds@simplegeo.com>
+Uploaders: Casey Crites <casey@simplegeo.com>
+Build-Depends: cdbs, debhelper (>= 7), python, python-support, python-setuptools
+Standards-Version: 3.8.4
+Homepage: https://github.com/simplegeo/django-countries
+
+Package: python-django-countries
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, python-django (>= 1.2)
+Description: django-countries
+ A small Django app to handle countries in forms in a succinct way.
